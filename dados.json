@@ -3,7 +3,7 @@
   "cod": "007",
   "tema": "Harry Potter",
   "nicho": "Geek",
-  "data": "2026-10-13T19:00:00-03:00",
+  "data": "2026-10-08T19:00:00-03:00",
   "palavra": "MAGIA",
   "capa": "img/007-capa.webp",
   "itens": [
@@ -33,7 +33,7 @@
   "cod": "006",
   "tema": "Quarto gamer",
   "nicho": "Gamer",
-  "data": "2026-10-11T19:00:00-03:00",
+  "data": "2026-10-07T19:00:00-03:00",
   "palavra": "GAMER",
   "capa": "img/006-capa.webp",
   "itens": [
@@ -63,7 +63,7 @@
   "cod": "005",
   "tema": "Gengar",
   "nicho": "Geek",
-  "data": "2026-10-09T19:00:00-03:00",
+  "data": "2026-10-06T19:00:00-03:00",
   "palavra": "GENGAR",
   "capa": "img/005-capa.webp",
   "itens": [
@@ -93,7 +93,7 @@
   "cod": "004",
   "tema": "Star Wars",
   "nicho": "Geek",
-  "data": "2026-10-07T19:00:00-03:00",
+  "data": "2026-10-05T19:00:00-03:00",
   "palavra": "YODA",
   "capa": "img/004-capa.webp",
   "itens": [
@@ -123,7 +123,7 @@
   "cod": "003",
   "tema": "Presentes geek",
   "nicho": "Presentes",
-  "data": "2026-10-05T19:00:00-03:00",
+  "data": "2026-10-04T19:00:00-03:00",
   "palavra": "PRESENTE",
   "capa": "img/003-capa.webp",
   "itens": [
