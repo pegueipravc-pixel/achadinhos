@@ -120,6 +120,36 @@
   ]
  },
  {
+  "cod": "003",
+  "tema": "Presentes geek",
+  "nicho": "Presentes",
+  "data": "2026-10-05T19:00:00-03:00",
+  "palavra": "PRESENTE",
+  "capa": "img/003-capa.webp",
+  "itens": [
+   {
+    "nome": "Bloco de montar Pikachu",
+    "link": "https://s.shopee.com.br/AKb1HNVXlR",
+    "img": "img/003-1.webp"
+   },
+   {
+    "nome": "Kit cubos mágicos",
+    "link": "https://s.shopee.com.br/AAHb54WB6Q",
+    "img": "img/003-2.webp"
+   },
+   {
+    "nome": "Jogo Stop",
+    "link": "https://s.shopee.com.br/9zyAslWoRP",
+    "img": "img/003-3.webp"
+   },
+   {
+    "nome": "Almofadas gamer",
+    "link": "https://s.shopee.com.br/9pekgSXRmO",
+    "img": "img/003-4.webp"
+   }
+  ]
+ },
+ {
   "cod": "002",
   "tema": "Setup gamer",
   "nicho": "Gamer",
