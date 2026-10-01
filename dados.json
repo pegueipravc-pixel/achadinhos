@@ -1,90 +1,150 @@
 [
  {
-  "cod": "004",
+  "cod": "007",
+  "tema": "Harry Potter",
+  "nicho": "Geek",
+  "data": "2026-10-12T19:00:00-03:00",
+  "palavra": "MAGIA",
+  "capa": "img/007-capa.webp",
+  "itens": [
+   {
+    "nome": "Luminária Hogwarts",
+    "link": "https://s.shopee.com.br/5Asv7vEs9s",
+    "img": "img/007-1.webp"
+   },
+   {
+    "nome": "Caneca Chapéu Seletor",
+    "link": "https://s.shopee.com.br/50ZUvcFVUr",
+    "img": "img/007-2.webp"
+   },
+   {
+    "nome": "Velas flutuantes",
+    "link": "https://s.shopee.com.br/4qG4jJG8pq",
+    "img": "img/007-3.webp"
+   },
+   {
+    "nome": "Almofadas Hogwarts",
+    "link": "https://s.shopee.com.br/4fweX0GmAp",
+    "img": "img/007-4.webp"
+   }
+  ]
+ },
+ {
+  "cod": "006",
   "tema": "Quarto gamer",
   "nicho": "Gamer",
-  "data": "2026-10-06T19:00:00-03:00",
+  "data": "2026-10-10T19:00:00-03:00",
   "palavra": "GAMER",
-  "capa": "img/004-capa.webp",
+  "capa": "img/006-capa.webp",
   "itens": [
    {
     "nome": "Papel de parede GTA",
-    "link": "https://s.shopee.com.br/8KpwnnfoN8",
-    "img": "img/004-1.webp"
+    "link": "https://s.shopee.com.br/4fweWzURmf",
+    "img": "img/006-1.webp"
    },
    {
     "nome": "Fita neon LED",
-    "link": "https://s.shopee.com.br/8V9N06fB2B",
-    "img": "img/004-2.webp"
+    "link": "https://s.shopee.com.br/5Asv7uSXlm",
+    "img": "img/006-2.webp"
    },
    {
     "nome": "Suporte de parede PS5",
-    "link": "https://s.shopee.com.br/8fSnCPeXhE",
-    "img": "img/004-3.webp"
+    "link": "https://s.shopee.com.br/50ZUvbTB6l",
+    "img": "img/006-3.webp"
    },
    {
     "nome": "Mousepad gigante",
-    "link": "https://s.shopee.com.br/8pmDOiduMH",
+    "link": "https://s.shopee.com.br/2qV0LcbQVM",
+    "img": "img/006-4.webp"
+   }
+  ]
+ },
+ {
+  "cod": "005",
+  "tema": "Gengar",
+  "nicho": "Geek",
+  "data": "2026-10-08T19:00:00-03:00",
+  "palavra": "GENGAR",
+  "capa": "img/005-capa.webp",
+  "itens": [
+   {
+    "nome": "Suporte de controle",
+    "link": "https://s.shopee.com.br/6L4rN89Zew",
+    "img": "img/005-1.webp"
+   },
+   {
+    "nome": "Luminária Gengar",
+    "link": "https://s.shopee.com.br/LneE7VwX9",
+    "img": "img/005-2.webp"
+   },
+   {
+    "nome": "Porta-lápis Gengar",
+    "link": "https://s.shopee.com.br/9KiSwdy9ZY",
+    "img": "img/005-3.webp"
+   },
+   {
+    "nome": "Caneca Gengar",
+    "link": "https://s.shopee.com.br/W74QQVJCA",
+    "img": "img/005-4.webp"
+   }
+  ]
+ },
+ {
+  "cod": "004",
+  "tema": "Star Wars",
+  "nicho": "Geek",
+  "data": "2026-10-06T19:00:00-03:00",
+  "palavra": "YODA",
+  "capa": "img/004-capa.webp",
+  "itens": [
+   {
+    "nome": "Caneca Grogu",
+    "link": "https://s.shopee.com.br/1Vzcl9pda8",
+    "img": "img/004-1.webp"
+   },
+   {
+    "nome": "Boneco Baby Yoda",
+    "link": "https://s.shopee.com.br/1LgCYqqGv7",
+    "img": "img/004-2.webp"
+   },
+   {
+    "nome": "Luminária Darth Vader",
+    "link": "https://s.shopee.com.br/1qcT9loMuE",
+    "img": "img/004-3.webp"
+   },
+   {
+    "nome": "Garrafa Star Wars",
+    "link": "https://s.shopee.com.br/1gJ2xSp0FD",
     "img": "img/004-4.webp"
    }
   ]
  },
  {
-  "cod": "003",
+  "cod": "002",
   "tema": "Setup gamer",
   "nicho": "Gamer",
-  "data": "2026-10-04T19:00:00-03:00",
-  "palavra": "SETUP",
-  "capa": "img/003-capa.webp",
-  "itens": [
-   {
-    "nome": "Dock de controles",
-    "link": "https://s.shopee.com.br/3Vkh2u7Ppu",
-    "img": "img/003-1.webp"
-   },
-   {
-    "nome": "Luminária gamer",
-    "link": "https://s.shopee.com.br/3LRGqb83At",
-    "img": "img/003-2.webp"
-   },
-   {
-    "nome": "Teclado RGB",
-    "link": "https://s.shopee.com.br/70KZDKu5jc",
-    "img": "img/003-3.webp"
-   },
-   {
-    "nome": "Suporte de headset",
-    "link": "https://s.shopee.com.br/7AdzPdtSOf",
-    "img": "img/003-4.webp"
-   }
-  ]
- },
- {
-  "cod": "002",
-  "tema": "Gengar",
-  "nicho": "Geek",
   "data": "2026-10-02T19:00:00-03:00",
-  "palavra": "GENGAR",
+  "palavra": "SETUP",
   "capa": "img/002-capa.webp",
   "itens": [
    {
-    "nome": "Suporte de controle",
-    "link": "https://s.shopee.com.br/6L4rN89Zew",
+    "nome": "Dock de controles",
+    "link": "https://s.shopee.com.br/3qNXXQ7xbM",
     "img": "img/002-1.webp"
    },
    {
-    "nome": "Luminária Gengar",
-    "link": "https://s.shopee.com.br/LneE7VwX9",
+    "nome": "Luminária gamer",
+    "link": "https://s.shopee.com.br/3g47L78awL",
     "img": "img/002-2.webp"
    },
    {
-    "nome": "Porta-lápis Gengar",
-    "link": "https://s.shopee.com.br/9KiSwdy9ZY",
+    "nome": "Teclado RGB",
+    "link": "https://s.shopee.com.br/3Vkh8o9EHK",
     "img": "img/002-3.webp"
    },
    {
-    "nome": "Caneca Gengar",
-    "link": "https://s.shopee.com.br/W74QQVJCA",
+    "nome": "Suporte de headset",
+    "link": "https://s.shopee.com.br/3LRGwV9rcJ",
     "img": "img/002-4.webp"
    }
   ]
