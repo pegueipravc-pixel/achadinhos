@@ -1,9 +1,39 @@
 [
  {
+  "cod": "004",
+  "tema": "Quarto gamer",
+  "nicho": "Gamer",
+  "data": "2026-10-06T19:00:00-03:00",
+  "palavra": "GAMER",
+  "capa": "img/004-capa.webp",
+  "itens": [
+   {
+    "nome": "Papel de parede GTA",
+    "link": "https://s.shopee.com.br/8KpwnnfoN8",
+    "img": "img/004-1.webp"
+   },
+   {
+    "nome": "Fita neon LED",
+    "link": "https://s.shopee.com.br/8V9N06fB2B",
+    "img": "img/004-2.webp"
+   },
+   {
+    "nome": "Suporte de parede PS5",
+    "link": "https://s.shopee.com.br/8fSnCPeXhE",
+    "img": "img/004-3.webp"
+   },
+   {
+    "nome": "Mousepad gigante",
+    "link": "https://s.shopee.com.br/8pmDOiduMH",
+    "img": "img/004-4.webp"
+   }
+  ]
+ },
+ {
   "cod": "003",
   "tema": "Setup gamer",
   "nicho": "Gamer",
-  "data": "2026-10-03T19:00:00-03:00",
+  "data": "2026-10-04T19:00:00-03:00",
   "palavra": "SETUP",
   "capa": "img/003-capa.webp",
   "itens": [
