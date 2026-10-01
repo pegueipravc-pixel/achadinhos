@@ -1,0 +1,92 @@
+[
+ {
+  "cod": "003",
+  "tema": "Setup gamer",
+  "nicho": "Gamer",
+  "data": "2026-10-03T19:00:00-03:00",
+  "palavra": "SETUP",
+  "capa": "img/003-capa.webp",
+  "itens": [
+   {
+    "nome": "Dock de controles",
+    "link": "https://s.shopee.com.br/3Vkh2u7Ppu",
+    "img": "img/003-1.webp"
+   },
+   {
+    "nome": "Luminária gamer",
+    "link": "https://s.shopee.com.br/3LRGqb83At",
+    "img": "img/003-2.webp"
+   },
+   {
+    "nome": "Teclado RGB",
+    "link": "https://s.shopee.com.br/70KZDKu5jc",
+    "img": "img/003-3.webp"
+   },
+   {
+    "nome": "Suporte de headset",
+    "link": "https://s.shopee.com.br/7AdzPdtSOf",
+    "img": "img/003-4.webp"
+   }
+  ]
+ },
+ {
+  "cod": "002",
+  "tema": "Gengar",
+  "nicho": "Geek",
+  "data": "2026-10-02T19:00:00-03:00",
+  "palavra": "GENGAR",
+  "capa": "img/002-capa.webp",
+  "itens": [
+   {
+    "nome": "Suporte de controle",
+    "link": "https://s.shopee.com.br/6L4rN89Zew",
+    "img": "img/002-1.webp"
+   },
+   {
+    "nome": "Luminária Gengar",
+    "link": "https://s.shopee.com.br/LneE7VwX9",
+    "img": "img/002-2.webp"
+   },
+   {
+    "nome": "Porta-lápis Gengar",
+    "link": "https://s.shopee.com.br/9KiSwdy9ZY",
+    "img": "img/002-3.webp"
+   },
+   {
+    "nome": "Caneca Gengar",
+    "link": "https://s.shopee.com.br/W74QQVJCA",
+    "img": "img/002-4.webp"
+   }
+  ]
+ },
+ {
+  "cod": "001",
+  "tema": "Pokémon",
+  "nicho": "Geek",
+  "data": "2026-10-01T12:40:00-03:00",
+  "palavra": "POKEMON",
+  "capa": "img/001-capa.webp",
+  "itens": [
+   {
+    "nome": "Capa de fone Pokébola",
+    "link": "https://s.shopee.com.br/6AlRApACzt",
+    "img": "img/001-1.webp"
+   },
+   {
+    "nome": "Copo Pikachu",
+    "link": "https://s.shopee.com.br/6VOHZR8wJz",
+    "img": "img/001-2.webp"
+   },
+   {
+    "nome": "Organizador de cabos",
+    "link": "https://s.shopee.com.br/9V1t8wxWEb",
+    "img": "img/001-3.webp"
+   },
+   {
+    "nome": "Suporte de celular Gengar",
+    "link": "https://s.shopee.com.br/2BFIPUOxoW",
+    "img": "img/001-4.webp"
+   }
+  ]
+ }
+]
